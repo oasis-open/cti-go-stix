@@ -22,8 +22,6 @@ Initially, the TC members have designated one or more persons to serve as Mainta
 
 <a id="currentMaintainers">Current Maintainers</a> of this TC Open Repository are: 
 
-<b>********** SUPPLY TEXT*******</b> 
-
 - [Rich Piazza](rpiazza@mitre.org), [rpiazza](https://github.com/rpiazza), [MITRE](https://www.mitre.org/) 
 - [Marlon Taylor](Marlon.Taylor@mail.cisa.dhs.gov), GHID, [DHS CISA](https://www.cisa.gov/)
 
